@@ -1,10 +1,27 @@
 # Purnavamsi Korivi — SAP Datasphere Portfolio
 
+Welcome to my personal portfolio and professional profile.
+
+I am a **SAP Datasphere professional** with hands-on experience in data integration, data modelling, and SAP Analytics Cloud.
+
+---
+
 ## 👨‍💻 About Me
 
-I am an SAP Datasphere professional with hands-on experience in data integration, data modelling, and SAP Analytics Cloud.
+I have hands-on experience working with:
 
-My experience includes working with SAP S/4HANA data sources, CDS Views, Replication Flows, Data Flows, Remote Tables, Graphical Views, Fact Views, Dimension Views, and Analytical Models.
+- SAP Datasphere
+- SAP S/4HANA
+- SAP Analytics Cloud (SAC)
+- CDS Views
+- Replication Flows
+- Data Flows
+- Remote Tables
+- Graphical Views
+- Fact Views
+- Dimension Views
+- Analytical Models
+- ABAP Source Tables
 
 ---
 
@@ -29,7 +46,9 @@ My experience includes working with SAP S/4HANA data sources, CDS Views, Replica
 
 ## 📊 Experience
 
-### SAP Datasphere Professional
+### SAP Datasphere Intern
+
+**Data Integration & Analytics**
 
 Hands-on experience in:
 
@@ -43,6 +62,7 @@ Hands-on experience in:
 - Analytical Models
 - SAP Analytics Cloud reporting
 - Data integration troubleshooting
+- Understanding and supporting business requirements
 
 ---
 
@@ -68,23 +88,30 @@ Created Data Flows for importing ABAP source tables into SAP Datasphere and prep
 
 ## 🎓 Education
 
-**B.Tech — Electronics & Communication Engineering**  
-Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology  
-2021 — 2025 | CGPA: 7.49 / 10
+### B.Tech — Electronics & Communication Engineering
 
-**Intermediate — MPC**  
-Impulse Junior College  
-2019 — 2021 | 82%
+**Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology**
 
-**SSC**  
-Excellent Star High School  
-2019 | 88%
+2021 — 2025 | **CGPA: 7.49 / 10**
+
+### Intermediate — MPC
+
+**Impulse Junior College**
+
+2019 — 2021 | **82%**
+
+### SSC
+
+**Excellent Star High School**
+
+2019 | **88%**
 
 ---
 
 ## 🌐 Portfolio
 
-**Live Website:**  
+**Live Website:**
+
 https://vamsikorivi-dev.github.io/Vamsikorivi-Portfolio/
 
 ---
@@ -98,6 +125,9 @@ My latest resume is available in this repository:
 ---
 
 ## 📬 Contact
+
+**Phone:**  
++91 9502698735
 
 **Email:**  
 vamsi.korivi58@gmail.com
